@@ -1,0 +1,120 @@
+[{
+	"name" : "Rohit Chauhan",
+	"designation" : ["senior director", "product manager"],
+	"current_company" : "24/7, inc",
+	"location" : {
+		"state" : "karnataka",
+		"city" : "bangalore",
+		"country" : "india"
+	},
+	"previous_company" : ["27/7 inc", "wisdomtap", "microsoft"],
+	"willingToMove" : 6
+},
+{
+	"name" : "tushar raina",
+	"designation" : ["product manager"],
+	"current_company" : "buyopic",
+	"location" : {
+		"state" : "gujrat",
+		"city" : "ahmedabad",
+		"country" : "india"
+	},
+	"previous_company" : ["buyopic", "snapdeal", "artjet"],
+	"willingToMove" : 8
+},
+{
+	"name" : "Rajat Johal",
+	"designation" : ["product manager, developer"],
+	"current_company" : "buyopic",
+	"location" : {
+		"state" : "goa",
+		"city" : "panjim",
+		"country" : "india"
+	},
+	"previous_company" : ["buyopic", "snapdeal", "artjet"],
+	"willingToMove" : 10
+},
+{
+	"name" : "Induja Mishara",
+	"designation" : ["product manager, developer"],
+	"current_company" : "buyopic",
+	"location" : {
+		"state" : "haryana",
+		"city" : "hissar",
+		"country" : "india"
+	},
+	"previous_company" : ["buyopic", "snapdeal", "artjet"],
+	"willingToMove" : 9
+},
+{
+	"name" : "Akash Sharma",
+	"designation" : ["product manager, developer"],
+	"current_company" : "buyopic",
+	"location" : {
+		"state" : "andarapardesh",
+		"city" : "hydrabad",
+		"country" : "india"
+	},
+	"previous_company" : ["buyopic", "snapdeal", "artjet"],
+	"willingToMove" : 7
+},
+{
+	"name" : "Mukul Garg",
+	"designation" : ["product manager, developer"],
+	"current_company" : "buyopic",
+	"location" : {
+		"state" : "kerla",
+		"city" : "agartala",
+		"country" : "india"
+	},
+	"previous_company" : ["buyopic", "snapdeal", "artjet"],
+	"willingToMove" : 9
+},
+{
+	"name" : "Monika Johal",
+	"designation" : ["product manager, developer"],
+	"current_company" : "buyopic",
+	"location" : {
+		"state" : "bengal",
+		"city" : "kolkata",
+		"country" : "india"
+	},
+	"previous_company" : ["buyopic", "snapdeal", "artjet"],
+	"willingToMove" : 5
+},
+{
+	"name" : "Girish Khan",
+	"designation" : ["product manager, developer"],
+	"current_company" : "buyopic",
+	"location" : {
+		"state" : "haryana",
+		"city" : "sirsa",
+		"country" : "india"
+	},
+	"previous_company" : ["buyopic", "snapdeal", "artjet"],
+	"willingToMove" : 3
+},
+{
+	"name" : "Rahul Grover",
+	"designation" : ["product manager, developer"],
+	"current_company" : "buyopic",
+	"location" : {
+		"state" : "gujrat",
+		"city" : "ahmedabad",
+		"country" : "india"
+	},
+	"previous_company" : ["buyopic", "snapdeal", "artjet"],
+	"willingToMove" : 9
+},
+{
+	"name" : "Karteek Kumar",
+	"designation" : ["product manager, developer"],
+	"current_company" : "buyopic",
+	"location" : {
+		"state" : "gujrat",
+		"city" : "gandi nagar",
+		"country" : "india"
+	},
+	"previous_company" : ["buyopic", "snapdeal", "artjet"],
+	"willingToMove" : 7
+}]
