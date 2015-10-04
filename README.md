@@ -13,7 +13,7 @@ $ sudo apt-get install nodejs
 $ sudo npm install -g gulp
 ```
 
-### Installing on Mac OS X
+## Installing on Mac OS X
 
 This instruction uses HomeBrew package manager. Refer
 [this article](http://thechangelog.com/install-node-js-with-homebrew-on-os-x/)
@@ -24,7 +24,7 @@ $ brew install node
 $ sudo npm install -g gulp
 ```
 
-### Preparing the repo
+## Preparing the repo
 
 ```bash
 $ git clone https://github.com/nsoni/single-page-demo.git
