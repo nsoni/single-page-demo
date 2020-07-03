@@ -1,3 +1,9 @@
+Used basic Libraries as 
+stapes: To use component model
+handlebars and templates: For templating
+partials and mock
+
+
 # Single-Page-Demo
 
 
